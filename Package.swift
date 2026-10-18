@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VIDVBiometrics",
-            url: "https://valify-public-sdks.s3.eu-central-1.amazonaws.com/VIDVBiometrics/1.0.1/VIDVBiometrics.zip",
-            checksum: "1eb33456cfcb53e590cd0bc93478674de4cc333c965738b19114baed6b309718"
+            url: "https://valify-public-sdks.s3.eu-central-1.amazonaws.com/VIDVBiometrics/1.0.2/VIDVBiometrics.zip",
+            checksum: "1bdbea15ece94aeb9b81ec0fda45ac2c9e6b6ef3dc9ecdefacfcc97bfc0e0687"
         )
     ]
 )
